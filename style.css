@@ -1,0 +1,25 @@
+*{
+	font-family: "PF Centro Sans Pro", serif;
+}
+
+th,
+td {
+	border: 3px solid rgba(4, 37, 153, 0.5);
+	padding: 10px;
+	text-align: center;
+}
+
+.container {
+	padding: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.table {
+	font-size: 18px;
+	color: #fa9a49;
+	background-color: rgba(136, 51, 160, 0.91);
+	width: 20%;
+	border-collapse: collapse;
+}
